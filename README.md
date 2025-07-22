@@ -80,7 +80,7 @@ To run this project, you need to have Python 3. x installed, along with the nece
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/Tiger_Trace.git
+   git clone https://github.com/UnivHarsh/Tiger_Trace.git
    cd Tiger_Trace
    ```
 
